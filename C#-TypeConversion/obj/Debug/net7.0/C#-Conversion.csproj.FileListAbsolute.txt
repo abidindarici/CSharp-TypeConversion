@@ -1,0 +1,15 @@
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/bin/Debug/net7.0/C#-Conversion
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/bin/Debug/net7.0/C#-Conversion.deps.json
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/bin/Debug/net7.0/C#-Conversion.runtimeconfig.json
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/bin/Debug/net7.0/C#-Conversion.dll
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/bin/Debug/net7.0/C#-Conversion.pdb
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/obj/Debug/net7.0/C#-Conversion.csproj.AssemblyReference.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/obj/Debug/net7.0/C#-Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/obj/Debug/net7.0/C#-Conversion.AssemblyInfoInputs.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/obj/Debug/net7.0/C#-Conversion.AssemblyInfo.cs
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/obj/Debug/net7.0/C#-Conversion.csproj.CoreCompileInputs.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/obj/Debug/net7.0/C#-Conversion.dll
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/obj/Debug/net7.0/refint/C#-Conversion.dll
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/obj/Debug/net7.0/C#-Conversion.pdb
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/obj/Debug/net7.0/C#-Conversion.genruntimeconfig.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Patika.dev/C#-Conversion/obj/Debug/net7.0/ref/C#-Conversion.dll
